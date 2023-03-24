@@ -19,6 +19,7 @@ This is an individual project that has three parts: an analysis and design docum
 • Driver class to test all functional methods in the project  
 • The output should be clear and well-presented containing messages to reflect the code testing.  
 • A snapshot showing which tests have passed, included in the README on GitHub.
+• Apply a sorting algorithm to the list of Teachers, Staffs, Departments, etc.
 
 **Project Objectives**
 
