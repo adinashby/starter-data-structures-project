@@ -1,6 +1,6 @@
 # Data Structures & OOP - Project
 
-This template repository is the starter project for Programming 2 Project. Written in Java, and tested with Gradle/JUnit.
+This template repository is the starter project for the Data Structures & Object Oriented Programming Project. Written in Java, and tested with Gradle/JUnit.
 
 ### Project Description
 
